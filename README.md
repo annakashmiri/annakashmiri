@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Anna Amina <3333
 
-<!--
-**annakashmiri/annakashmiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student · AI for social good · From Kashmir, studying in Malaysia 🇲🇾
 
-Here are some ideas to get you started:
+> I build AI systems that give voice to underrepresented communities — starting with my own.
+Kashmiri, creative, and convinced that technology should serve culture, not erase it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+![Python](https://img.shields.io/badge/Python-EEEDFE?style=flat&logoColor=3C3489&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FBEAF0?style=flat&logoColor=993556&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-E1F5EE?style=flat&logoColor=085041&logo=scikit-learn)
+![Java](https://img.shields.io/badge/Java-E1F5EE?style=flat&logoColor=085041&logo=java)
+
+## Beyond code
+- Painting, sketching & digital art poetry!! 
+- Passionate about Kashmir, politics & cultural preservation
+- i love ghazals and sufi gyawun (Kashmiri sufi songs)
+- Follow my Kashmir page on Instagram → [@masalcxot](https://instagram.com/masalcxot)
+
+## Currently
+- Looking for internships in AI/ML
+- Building tech that represents underrepresented voices
+
+---
+*Open to opportunities 
