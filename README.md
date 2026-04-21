@@ -44,6 +44,9 @@ Kashmiri, creative, and convinced that technology should serve culture, not eras
 ## Currently
 - Looking for internships in AI/ML
 - Building tech that represents underrepresented voices
-
+- 
+###  Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annakashmiri)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/masalcxot)
 ---
 *Open to opportunities 
