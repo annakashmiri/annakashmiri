@@ -2,7 +2,7 @@
 
 CS student · AI for social good · From Kashmir, studying in Malaysia 🇲🇾
 
-> I build AI systems that give voice to underrepresented communities — starting with my own.
+> I build AI systems that give voice to underrepresented communities, starting with my own.
 Kashmiri, creative, and convinced that technology should serve culture, not erase it.
 
 ### 🛠️ Tech Stack (changing every other day hehe)
