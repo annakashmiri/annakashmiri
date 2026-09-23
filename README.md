@@ -42,11 +42,9 @@ Kashmiri, creative, and convinced that technology should serve culture, not eras
 - Follow my Kashmir page on Instagram → [@masalcxot](https://instagram.com/masalcxot)
 
 ## Currently
-- Looking for internships in AI/ML
-- Building tech that represents underrepresented voices
-- 
+- Interning @Dominos Malaysia as an Artificial Intelligence Engineer 
 ###  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annakashmiri)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/masalcxot)
 ---
-*Open to opportunities 
+*Open to opportunities for collaboration 
